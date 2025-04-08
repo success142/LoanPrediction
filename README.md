@@ -1,2 +1,2 @@
-# LoanPrediction
-LoanPrediction_Dashboard
+# LoanPredcition
+Loan Prediction Dashboard
